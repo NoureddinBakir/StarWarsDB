@@ -7,4 +7,4 @@ starships_path = './starships.csv'
 vehicles_path = './vehicles.csv'
 
 df = pd.read_csv(characters_path)
-print(df.head())
+print(df.sample())
