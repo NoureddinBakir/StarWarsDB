@@ -1,6 +1,6 @@
 # 🪐 Star Wars DB
 ### Search the multigalaxy database
-Chat bot P4-CK is at your service
+Chat bot P3-C3 is at your service
 
 ## How to get started
 1. If you've downloaded this codebase
